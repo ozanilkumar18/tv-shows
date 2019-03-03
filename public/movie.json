@@ -1,0 +1,52 @@
+{
+  "id": 39762,
+  "url": "http://www.tvmaze.com/shows/39762/alien-news-desk",
+  "name": "Alien News Desk",
+  "type": "Animation",
+  "language": "English",
+  "genres": [],
+  "status": "Running",
+  "runtime": 30,
+  "premiered": "2019-02-27",
+  "officialSite": "https://www.syfy.com/aliennewsdesk",
+  "schedule": {
+    "time": "23:00",
+    "days": ["Wednesday"]
+  },
+  "rating": {
+    "average": 8.8
+  },
+  "weight": 99,
+  "network": {
+    "id": 16,
+    "name": "Syfy",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    }
+  },
+  "webChannel": null,
+  "externals": {
+    "tvrage": null,
+    "thetvdb": 359610,
+    "imdb": "tt9287050"
+  },
+  "image": {
+    "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/182/456847.jpg",
+    "original": "http://static.tvmaze.com/uploads/images/original_untouched/182/456847.jpg"
+  },
+  "summary": "<p><b>Alien News Desk</b> is a weekly, topical animated series set in an extraterrestrial newsroom, which covers up-to-the-minute news and commentary about the universe's most baffling species - the inscrutable Humans of Planet Earth.</p>",
+  "updated": 1551360866,
+  "_links": {
+    "self": {
+      "href": "http://api.tvmaze.com/shows/39762"
+    },
+    "previousepisode": {
+      "href": "http://api.tvmaze.com/episodes/1605286"
+    },
+    "nextepisode": {
+      "href": "http://api.tvmaze.com/episodes/1612107"
+    }
+  }
+}
